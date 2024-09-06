@@ -1,5 +1,9 @@
 # Paradise-Island-Bot
+
+Use Python 3.11
+
 We are going to do some crazy stuff to simulate characters from paradise island
+
 1. Taking ~10 hours worth of audio (all Paradise Island episodes), separating it out to label into individual speakers
 2. Transcribe individual character dialogue and translating it into English
 3. Taking this information and either prompt engineering or fine-tuning an LLM persona
