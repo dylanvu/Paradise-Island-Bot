@@ -1,5 +1,8 @@
 # Paradise-Island-Bot
 
+Diagrams:
+https://drive.google.com/file/d/1C2eab9trVN4LaVcsdwbasvVKf2BQ4xqm/view?usp=sharing
+
 Use Python 3.11
 
 We are going to do some crazy stuff to simulate characters from paradise island
