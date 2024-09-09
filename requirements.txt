@@ -26,3 +26,5 @@ sqlalchemy-utils==0.41.2
 sqlmodel==0.0.16
 watchfiles==0.24.0
 websockets==13.0.1
+moviepy==1.0.3
+SpeechRecognition==3.10.4
