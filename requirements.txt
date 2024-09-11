@@ -28,3 +28,7 @@ watchfiles==0.24.0
 websockets==13.0.1
 moviepy==1.0.3
 SpeechRecognition==3.10.4
+pyannote.audio==3.3.1
+noisereduce==3.0.2
+librosa==0.10.2.post1
+soundfile==0.12.1
