@@ -4,7 +4,7 @@ discord.py==2.4.0
 docstring-parser==0.15
 docx2txt==0.8
 google-generativeai==0.7.2
-grpcio-status==1.62.3
+grpcio-status==1.60.0
 html2text==2020.1.16
 httptools==0.6.1
 httpx-sse==0.4.0
@@ -15,7 +15,7 @@ milvus==2.2.16
 pip-chill==1.0.3
 prettytable==3.11.0
 pydantic-settings==2.4.0
-pymilvus==2.4.6
+pymilvus==2.4.0
 python-box==7.2.0
 python-multipart==0.0.9
 questionary==2.0.1
